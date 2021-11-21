@@ -12,5 +12,5 @@
 
 
 
-   [Kaggle]: <https://www.kaggle.com/c/nlp-getting-started/overviewr>
+   [Kaggle]: <https://www.kaggle.com/c/nlp-getting-started>
 
